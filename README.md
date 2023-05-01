@@ -18,17 +18,6 @@ Assignment and Communication
 Working the Issue
 Resolution
 Lifecycle Stages
-Disk Sanitization Steps
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-
-Disk Sanitization Steps
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-
-Disk Sanitization Steps
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+We're just going to go through the motions of how this platform works.
+as System Admin agent, we can look at these tickets, reassign them, even with comments and reasoning if you should decide to. We can also change SLA plans on the fly.  It's a very useful system to have.  It is good practice to assign tickets to teams, with agents assigned to said teams, rather than to assign any one agent directly.

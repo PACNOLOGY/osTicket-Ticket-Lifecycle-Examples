@@ -22,3 +22,6 @@ Lifecycle Stages
 We're just going to go through the motions of how this platform works.
 as System Admin agent, we can look at these tickets, reassign them, even with comments and reasoning if you should decide to. We can also change SLA plans on the fly.  It's a very useful system to have.  It is good practice to assign tickets to teams, with agents assigned to said teams, rather than to assign any one agent directly.
 <img src=https://i.imgur.com/zzVzZ6c.png>
+Pictured above is what the ticket system looks like to a non-user, such as a temp employee or a customer
+
+When a ticket is submitted, it then becomes visible to whomever is granted access, and an admin can change those parameters as one sees fit.
